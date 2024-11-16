@@ -1,0 +1,73 @@
+{
+  "homepage": "https://ThanilkaUdugama.github.io/saru-app",
+  "name": "saruapp",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@emotion/react": "^11.13.3",
+    "@emotion/styled": "^11.13.0",
+    "@mui/icons-material": "^6.1.2",
+    "@mui/lab": "^6.0.0-beta.10",
+    "@mui/material": "^6.1.2",
+    "@mui/x-charts": "^7.18.0",
+    "@mui/x-data-grid": "^7.12.1",
+    "@mui/x-date-pickers": "^7.13.0",
+    "@nivo/calendar": "^0.87.0",
+    "@nivo/heatmap": "^0.87.0",
+    "@nivo/line": "^0.87.0",
+    "@nivo/pie": "^0.87.0",
+    "@nivo/radar": "^0.87.0",
+    "@testing-library/jest-dom": "^5.17.0",
+    "@testing-library/react": "^13.4.0",
+    "@testing-library/user-event": "^13.5.0",
+    "@toolpad/core": "^0.8.1",
+    "@toolpad/studio": "^0.8.1",
+    "chart.js": "^4.4.5",
+    "d3-scale": "^4.0.2",
+    "d3-time-format": "^4.1.0",
+    "date-fns": "^4.1.0",
+    "dayjs": "^1.11.12",
+    "html2canvas": "^1.4.1",
+    "jspdf": "^2.5.2",
+    "jwt-decode": "^4.0.0",
+    "nivo": "^0.31.0",
+    "react": "^18.3.1",
+    "react-chartjs-2": "^5.2.0",
+    "react-dom": "^18.3.1",
+    "react-router-dom": "^6.26.0",
+    "react-scripts": "5.0.1",
+    "rechart": "^0.0.1",
+    "recharts": "^2.12.7",
+    "web-vitals": "^2.1.4"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "predeploy": "npm run build",
+  "deploy": "gh-pages -d build"
+  },
+  "eslintConfig": {
+    "extends": [
+      "react-app",
+      "react-app/jest"
+    ]
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "devDependencies": {
+    "gh-pages": "^6.2.0",
+    "tailwindcss": "^3.4.10"
+  }
+}
