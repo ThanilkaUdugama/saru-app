@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/saru-app/static/css/main.83ffb53c.css",
-    "main.js": "/saru-app/static/js/main.4acf5b53.js",
+    "main.js": "/saru-app/static/js/main.fae730f1.js",
     "static/js/453.04cec93c.chunk.js": "/saru-app/static/js/453.04cec93c.chunk.js",
     "index.html": "/saru-app/index.html",
     "main.83ffb53c.css.map": "/saru-app/static/css/main.83ffb53c.css.map",
-    "main.4acf5b53.js.map": "/saru-app/static/js/main.4acf5b53.js.map",
+    "main.fae730f1.js.map": "/saru-app/static/js/main.fae730f1.js.map",
     "453.04cec93c.chunk.js.map": "/saru-app/static/js/453.04cec93c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.83ffb53c.css",
-    "static/js/main.4acf5b53.js"
+    "static/js/main.fae730f1.js"
   ]
 }
